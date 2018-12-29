@@ -1,0 +1,24 @@
+Uri: http://caltechmanufacturing.com/
+File Name: c:\Downloaded Web Sites\caltechmanufacturing.com\index.html
+Content Type: text/html
+
+Uri: http://caltechmanufacturing.com/index.html
+File Name: c:\Downloaded Web Sites\caltechmanufacturing.com\index-1.html
+Content Type: text/html
+
+Uri: http://caltechmanufacturing.com/about.html
+File Name: c:\Downloaded Web Sites\caltechmanufacturing.com\about.html
+Content Type: text/html
+
+Uri: http://caltechmanufacturing.com/services.html
+File Name: c:\Downloaded Web Sites\caltechmanufacturing.com\services.html
+Content Type: text/html
+
+Uri: http://caltechmanufacturing.com/contact.html
+File Name: c:\Downloaded Web Sites\caltechmanufacturing.com\contact.html
+Content Type: text/html
+
+Uri: http://caltechmanufacturing.com/Shared/Images/space.gif?lbisphpreq=1
+File Name: c:\Downloaded Web Sites\caltechmanufacturing.com\Shared\Images\space.gif
+Content Type: image/gif
+
